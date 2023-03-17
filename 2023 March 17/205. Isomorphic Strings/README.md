@@ -1,3 +1,3 @@
-# [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+# [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 
 ### By [Yazdan Ranjbar](https://github.com/yazdanra)
